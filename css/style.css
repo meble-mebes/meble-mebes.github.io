@@ -159,7 +159,7 @@ h6 {
 #header .logo img {
   padding: 0;
   margin: 7px 0;
-  max-height: 26px;
+  max-height: 40px;
 }
 
 .main-pages {
@@ -196,7 +196,7 @@ h6 {
 }
 
 #intro .intro-info h2 span {
-  color: #74b5fc;
+  color: #fff;
   text-decoration: underline;
 }
 
@@ -215,9 +215,9 @@ h6 {
 }
 
 #intro .intro-info .btn-get-started {
-  background: #007bff;
-  border: 2px solid #007bff;
-  color: #fff;
+  background: #fff;
+  border: 2px solid #fff;
+  color: #000000;
 }
 
 #intro .intro-info .btn-get-started:hover {
@@ -231,9 +231,9 @@ h6 {
 }
 
 #intro .intro-info .btn-services:hover {
-  background: #007bff;
-  border-color: #007bff;
-  color: #fff;
+  background: #fff;
+  border-color: #fff;
+  color: #000000;
 }
 
 /*--------------------------------------------------------------
@@ -263,7 +263,7 @@ h6 {
 .main-nav a {
   display: block;
   position: relative;
-  color: #004289;
+  color: #3e3b39;
   padding: 10px 15px;
   transition: 0.3s;
   font-size: 14px;
@@ -274,7 +274,7 @@ h6 {
 .main-nav a:hover,
 .main-nav .active > a,
 .main-nav li:hover > a {
-  color: #007bff;
+  color: #000000;
   text-decoration: none;
 }
 
@@ -736,17 +736,17 @@ h6 {
   padding: 6px 20px;
   font-size: 12px;
   line-height: 20px;
-  color: #007bff;
+  color: #3e3b39;
   border-radius: 50px;
   text-transform: uppercase;
-  background: #ecf5ff;
+  background: #d4d4d4;
   margin-bottom: 5px;
   transition: all 0.3s ease-in-out;
 }
 
 #portfolio #portfolio-flters li:hover,
 #portfolio #portfolio-flters li.filter-active {
-  background: #007bff;
+  background: #3e3b39;
   color: #fff;
 }
 
@@ -1167,7 +1167,7 @@ h6 {
 }
 
 #contact .form button[type="submit"] {
-  background: #007bff;
+  background: #3e3b39;
   border: 0;
   border-radius: 20px;
   padding: 8px 30px;
@@ -1176,7 +1176,7 @@ h6 {
 }
 
 #contact .form button[type="submit"]:hover {
-  background: #0067d5;
+  background: #000000;
   cursor: pointer;
 }
 
@@ -1185,14 +1185,14 @@ h6 {
 --------------------------------------------------------------*/
 
 #footer {
-  background: #00428a;
+  background: #000000;
   padding: 0 0 30px 0;
   color: #eee;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #004a99;
+  background: #3e3b39;
   padding: 60px 0 30px 0;
 }
 
