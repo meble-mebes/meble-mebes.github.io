@@ -462,6 +462,14 @@ h6 {
   position: relative;
 }
 
+.section-header h2 {
+  font-size: 18px;
+  color: #283d50;
+  text-align: center;
+  font-weight: 500;
+  position: relative;
+}
+
 .section-header p {
   text-align: center;
   margin: auto;
@@ -1077,7 +1085,7 @@ h6 {
   font-weight: 300;
   letter-spacing: 3px;
   text-transform: uppercase;
-  color: #007bff;
+  color: #3e3b39;
 }
 
 #contact .contact-about p {
@@ -1104,11 +1112,11 @@ h6 {
   width: 36px;
   height: 36px;
   transition: 0.3s;
-  border: 1px solid #007bff;
+  border: 1px solid #3e3b39;
 }
 
 #contact .social-links a:hover {
-  background: #007bff;
+  background: #3e3b39;
   color: #fff;
 }
 
@@ -1130,8 +1138,8 @@ h6 {
 }
 
 #contact .form #sendmessage {
-  color: #007bff;
-  border: 1px solid #007bff;
+  color: #3e3b39;
+  border: 1px solid #3e3b39;
   display: none;
   text-align: center;
   padding: 15px;
